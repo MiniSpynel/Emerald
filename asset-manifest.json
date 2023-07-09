@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Emerald/static/css/main.5d76921b.css",
-    "main.js": "/Emerald/static/js/main.f6ae4895.js",
+    "main.css": "/Emerald/static/css/main.1d53e7a6.css",
+    "main.js": "/Emerald/static/js/main.66e1533d.js",
     "static/js/787.84ad18bd.chunk.js": "/Emerald/static/js/787.84ad18bd.chunk.js",
     "index.html": "/Emerald/index.html",
-    "main.5d76921b.css.map": "/Emerald/static/css/main.5d76921b.css.map",
-    "main.f6ae4895.js.map": "/Emerald/static/js/main.f6ae4895.js.map",
+    "main.1d53e7a6.css.map": "/Emerald/static/css/main.1d53e7a6.css.map",
+    "main.66e1533d.js.map": "/Emerald/static/js/main.66e1533d.js.map",
     "787.84ad18bd.chunk.js.map": "/Emerald/static/js/787.84ad18bd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5d76921b.css",
-    "static/js/main.f6ae4895.js"
+    "static/css/main.1d53e7a6.css",
+    "static/js/main.66e1533d.js"
   ]
 }
